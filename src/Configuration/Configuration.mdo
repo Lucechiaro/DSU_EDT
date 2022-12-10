@@ -73,6 +73,7 @@
   <commonCommands>CommonCommand.СоздатьТочкуАктуальности</commonCommands>
   <commonCommands>CommonCommand.АктуализироватьКурсыВалют</commonCommands>
   <commonCommands>CommonCommand.ПодсчитатьЛиквиды</commonCommands>
+  <commonCommands>CommonCommand.ЗагрузитьВыпискуБанка</commonCommands>
   <constants>Constant.ОсновнаяВалютаУчета</constants>
   <constants>Constant.СчетХраненияДСПланируемыхПокупок</constants>
   <constants>Constant.ВалютаХраненияДСПланируемыхПокупок</constants>
@@ -84,6 +85,8 @@
   <commonForms>CommonForm.ФормаВводаРасходов</commonForms>
   <commonForms>CommonForm.ВводПоказателейСчетчиков</commonForms>
   <commonForms>CommonForm.ФормаВыбораДаты</commonForms>
+  <commonForms>CommonForm.ВводРасходовЗаПериод</commonForms>
+  <commonForms>CommonForm.ЗагрузкаВыпискиБанка</commonForms>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Счета</catalogs>
   <catalogs>Catalog.СтатьиДДС</catalogs>
@@ -109,6 +112,7 @@
   <enums>Enum.ВидыДолговыхОпераций</enums>
   <enums>Enum.БулевоДаНет</enums>
   <enums>Enum.ВидДвиженияДС</enums>
+  <enums>Enum.ФорматыВыписки</enums>
   <reports>Report.СальдоЗаПериод</reports>
   <reports>Report.РасходыЗаПериод</reports>
   <reports>Report.ОстаткиПоСчетам</reports>

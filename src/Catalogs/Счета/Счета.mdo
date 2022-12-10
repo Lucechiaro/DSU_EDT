@@ -59,6 +59,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="41b1b348-4fb6-4cf7-a52a-452269348ec7">
+    <name>ФорматВыписки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Формат выписки</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ФорматыВыписки</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="f1c18911-3152-4547-8728-44ba73554b07">
     <name>ФормаВыбора</name>
     <synonym>

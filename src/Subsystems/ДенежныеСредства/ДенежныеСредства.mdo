@@ -43,6 +43,8 @@
   <content>Report.СальдоЗаПериод</content>
   <content>Report.ИсторияТочекАктуальности</content>
   <content>CommonCommand.ПодсчитатьЛиквиды</content>
+  <content>CommonForm.ЗагрузкаВыпискиБанка</content>
+  <content>CommonCommand.ЗагрузитьВыпискуБанка</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Документы</subsystems>
   <subsystems>Отчеты</subsystems>
