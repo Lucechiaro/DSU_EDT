@@ -101,6 +101,7 @@
   <documents>Document.ИзменениеПланируемойПокупки</documents>
   <documents>Document.КорректировкаДолга</documents>
   <documents>Document.ПлановыеДоходыРасходы</documents>
+  <documents>Document.БанковскаяТранзакция</documents>
   <documentJournals>DocumentJournal.РасходыПоДолговымОбязательствам</documentJournals>
   <documentJournals>DocumentJournal.ПриходыПоДолговымОбязательствам</documentJournals>
   <documentJournals>DocumentJournal.ОбщийЖурналДолговыхДокументов</documentJournals>

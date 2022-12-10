@@ -45,6 +45,7 @@
   <content>CommonCommand.ПодсчитатьЛиквиды</content>
   <content>CommonForm.ЗагрузкаВыпискиБанка</content>
   <content>CommonCommand.ЗагрузитьВыпискуБанка</content>
+  <content>Document.БанковскаяТранзакция</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Документы</subsystems>
   <subsystems>Отчеты</subsystems>
