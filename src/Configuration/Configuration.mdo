@@ -74,6 +74,7 @@
   <commonCommands>CommonCommand.АктуализироватьКурсыВалют</commonCommands>
   <commonCommands>CommonCommand.ПодсчитатьЛиквиды</commonCommands>
   <commonCommands>CommonCommand.ЗагрузитьВыпискуБанка</commonCommands>
+  <commonCommands>CommonCommand.ВводДвиженийПоСчету</commonCommands>
   <constants>Constant.ОсновнаяВалютаУчета</constants>
   <constants>Constant.СчетХраненияДСПланируемыхПокупок</constants>
   <constants>Constant.ВалютаХраненияДСПланируемыхПокупок</constants>
@@ -85,7 +86,7 @@
   <commonForms>CommonForm.ФормаВводаРасходов</commonForms>
   <commonForms>CommonForm.ВводПоказателейСчетчиков</commonForms>
   <commonForms>CommonForm.ФормаВыбораДаты</commonForms>
-  <commonForms>CommonForm.ВводРасходовЗаПериод</commonForms>
+  <commonForms>CommonForm.ВводДвиженийПоСчету</commonForms>
   <commonForms>CommonForm.ЗагрузкаВыпискиБанка</commonForms>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Счета</catalogs>

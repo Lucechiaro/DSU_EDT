@@ -202,6 +202,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="d8f57c1f-8760-4014-8b08-2a47e9b71fcf">
+    <name>БанковскаяТранзакция</name>
+    <synonym>
+      <key>ru</key>
+      <value>Банковская транзакция</value>
+    </synonym>
+    <type>
+      <types>DocumentRef.БанковскаяТранзакция</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="5f72517f-2f91-431d-987e-938e1d4f73f8">
     <name>ФормаДокумента</name>
     <synonym>
