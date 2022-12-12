@@ -1100,8 +1100,7 @@
       </title>
       <id>14</id>
       <valueType>
-        <types>String</types>
-        <stringQualifiers/>
+        <types>EnumRef.ВидДвиженияДС</types>
       </valueType>
       <view>
         <common>true</common>
