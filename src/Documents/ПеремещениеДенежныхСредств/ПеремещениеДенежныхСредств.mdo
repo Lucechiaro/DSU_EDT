@@ -295,6 +295,36 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="a716daef-775b-427b-8f60-6c9c8e6176c5">
+    <name>ТранзакцияПрихода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Транзакция прихода</value>
+    </synonym>
+    <type>
+      <types>DocumentRef.БанковскаяТранзакция</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="8a7050e7-ee93-490a-b338-88818bf98fdc">
+    <name>ТранзакцияРасхода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Транзакция расхода</value>
+    </synonym>
+    <type>
+      <types>DocumentRef.БанковскаяТранзакция</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="9bb25037-920d-4996-aed3-18eef13894bf">
     <name>ФормаДокумента</name>
     <synonym>

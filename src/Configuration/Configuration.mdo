@@ -36,7 +36,6 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <compatibilityMode>8.3.18</compatibilityMode>
   <languages uuid="96f7829f-7ba4-44a4-acc9-a0549f4f759c">
     <name>Русский</name>
@@ -70,6 +69,7 @@
   <commonModules>CommonModule.Глобальный</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСервер</commonModules>
+  <definedTypes>DefinedType.ИдентификаторКорреспондента</definedTypes>
   <commonCommands>CommonCommand.СоздатьТочкуАктуальности</commonCommands>
   <commonCommands>CommonCommand.АктуализироватьКурсыВалют</commonCommands>
   <commonCommands>CommonCommand.ПодсчитатьЛиквиды</commonCommands>
@@ -95,6 +95,7 @@
   <catalogs>Catalog.ПланируемыеПокупки</catalogs>
   <catalogs>Catalog.НастройкиНапоминаний</catalogs>
   <catalogs>Catalog.Должники</catalogs>
+  <catalogs>Catalog.ШаблоныРазбораБанковскойВыписки</catalogs>
   <documents>Document.РасходДенежныхСредств</documents>
   <documents>Document.ПриходДенежныхСредств</documents>
   <documents>Document.ПеремещениеДенежныхСредств</documents>

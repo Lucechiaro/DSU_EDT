@@ -166,7 +166,7 @@
       </dataPath>
       <handlers>
         <event>OnChange</event>
-        <name>ПриИзмененииПараметраОтбора</name>
+        <name>НачалоПериодаПриИзменении</name>
       </handlers>
       <extendedTooltip>
         <name>НачалоПериодаРасширеннаяПодсказка</name>
@@ -220,7 +220,7 @@
       </dataPath>
       <handlers>
         <event>OnChange</event>
-        <name>ПриИзмененииПараметраОтбора</name>
+        <name>КонецПериодаПриИзменении</name>
       </handlers>
       <extendedTooltip>
         <name>КонецПериодаРасширеннаяПодсказка</name>

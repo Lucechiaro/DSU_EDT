@@ -1060,10 +1060,7 @@
       </title>
       <id>12</id>
       <valueType>
-        <types>String</types>
-        <stringQualifiers>
-          <length>20</length>
-        </stringQualifiers>
+        <types>DefinedType.ИдентификаторКорреспондента</types>
       </valueType>
       <view>
         <common>true</common>
