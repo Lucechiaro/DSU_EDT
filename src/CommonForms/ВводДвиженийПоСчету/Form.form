@@ -1115,6 +1115,7 @@
       <valueType>
         <types>DocumentRef.ПриходДенежныхСредств</types>
         <types>DocumentRef.РасходДенежныхСредств</types>
+        <types>DocumentRef.КорректировкаДолга</types>
       </valueType>
       <view>
         <common>true</common>
