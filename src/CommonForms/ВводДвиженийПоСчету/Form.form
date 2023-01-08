@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
+<form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <items xsi:type="form:FormField">
     <name>Счет</name>
     <id>1</id>
@@ -218,10 +218,14 @@
       </extendedTooltip>
       <type>UsualButton</type>
       <commandName>Form.Command.Обновить</commandName>
-      <representation>Auto</representation>
+      <representation>PictureAndText</representation>
+      <defaultButton>true</defaultButton>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
+      <picture xsi:type="core:PictureRef">
+        <picture>StdPicture.Refresh</picture>
+      </picture>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
     <items xsi:type="form:Button">
@@ -250,10 +254,13 @@
       </extendedTooltip>
       <type>UsualButton</type>
       <commandName>Form.Command.ЗагрузитьВыписку</commandName>
-      <representation>Auto</representation>
+      <representation>PictureAndText</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
       <placementArea>UserCmds</placementArea>
+      <picture xsi:type="core:PictureRef">
+        <picture>StdPicture.Post</picture>
+      </picture>
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
     <visible>true</visible>
@@ -933,7 +940,6 @@
       <common>true</common>
     </userVisible>
     <horizontalAlign>Left</horizontalAlign>
-    <autoFill>true</autoFill>
   </autoCommandBar>
   <handlers>
     <event>OnLoadDataFromSettingsAtServer</event>
@@ -1115,7 +1121,7 @@
       <valueType>
         <types>DocumentRef.ПриходДенежныхСредств</types>
         <types>DocumentRef.РасходДенежныхСредств</types>
-        <types>DocumentRef.КорректировкаДолга</types>
+        <types>DocumentRef.ПеремещениеДенежныхСредств</types>
       </valueType>
       <view>
         <common>true</common>
