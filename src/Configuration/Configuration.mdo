@@ -69,6 +69,7 @@
   <commonModules>CommonModule.Глобальный</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСервер</commonModules>
+  <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
   <definedTypes>DefinedType.ИдентификаторКорреспондента</definedTypes>
   <commonCommands>CommonCommand.СоздатьТочкуАктуальности</commonCommands>
   <commonCommands>CommonCommand.АктуализироватьКурсыВалют</commonCommands>
