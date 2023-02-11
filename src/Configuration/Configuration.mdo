@@ -70,6 +70,7 @@
   <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСервер</commonModules>
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
+  <commonModules>CommonModule.ОбщийПовтИсп</commonModules>
   <definedTypes>DefinedType.ИдентификаторКорреспондента</definedTypes>
   <commonCommands>CommonCommand.СоздатьТочкуАктуальности</commonCommands>
   <commonCommands>CommonCommand.АктуализироватьКурсыВалют</commonCommands>
@@ -142,5 +143,6 @@
   <accumulationRegisters>AccumulationRegister.Расходы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ДолговыеОбязательства</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиПланируемыхПокупок</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ОстаткиВалют</accumulationRegisters>
   <tasks>Task.Напоминание</tasks>
 </mdclass:Configuration>

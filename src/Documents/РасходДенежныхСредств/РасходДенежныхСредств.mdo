@@ -18,6 +18,10 @@
   <basedOn>Task.Напоминание</basedOn>
   <createOnInput>Use</createOnInput>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Расход средств</value>
+  </objectPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <checkUnique>true</checkUnique>
@@ -31,6 +35,7 @@
   <registerRecords>AccumulationRegister.ОстаткиПоСчетам</registerRecords>
   <registerRecords>AccumulationRegister.ДолговыеОбязательства</registerRecords>
   <registerRecords>AccumulationRegister.Расходы</registerRecords>
+  <registerRecords>AccumulationRegister.ОстаткиВалют</registerRecords>
   <attributes uuid="5dbc367b-efff-4a6f-af36-b4fe9d138553">
     <name>Счет</name>
     <synonym>

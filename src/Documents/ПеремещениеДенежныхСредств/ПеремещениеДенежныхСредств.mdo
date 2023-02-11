@@ -17,6 +17,10 @@
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Перемещение средств</value>
+  </objectPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <checkUnique>true</checkUnique>
@@ -29,6 +33,7 @@
   <registerRecords>AccumulationRegister.ОстаткиПоСчетам</registerRecords>
   <registerRecords>AccumulationRegister.Расходы</registerRecords>
   <registerRecords>AccumulationRegister.Доходы</registerRecords>
+  <registerRecords>AccumulationRegister.ОстаткиВалют</registerRecords>
   <attributes uuid="bf0cbcf0-b89f-4d8c-83f6-fe632cf1f2db">
     <name>Счет</name>
     <synonym>

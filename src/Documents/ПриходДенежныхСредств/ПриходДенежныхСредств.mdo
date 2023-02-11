@@ -17,6 +17,10 @@
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Приход средств</value>
+  </objectPresentation>
   <numberType>String</numberType>
   <numberLength>6</numberLength>
   <checkUnique>true</checkUnique>
@@ -28,6 +32,7 @@
   <registerRecords>AccumulationRegister.ОстаткиПоСчетам</registerRecords>
   <registerRecords>AccumulationRegister.ДолговыеОбязательства</registerRecords>
   <registerRecords>AccumulationRegister.Доходы</registerRecords>
+  <registerRecords>AccumulationRegister.ОстаткиВалют</registerRecords>
   <attributes uuid="8d3a7192-6fed-471e-9b18-4abd8e2fa6ed">
     <name>Счет</name>
     <synonym>

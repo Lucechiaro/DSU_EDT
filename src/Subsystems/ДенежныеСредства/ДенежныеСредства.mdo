@@ -46,6 +46,8 @@
   <content>Document.БанковскаяТранзакция</content>
   <content>CommonForm.ВводДвиженийПоСчету</content>
   <content>CommonCommand.ВводДвиженийПоСчету</content>
+  <content>AccumulationRegister.ОстаткиВалют</content>
+  <content>Role.Основная</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Документы</subsystems>
   <subsystems>Отчеты</subsystems>
