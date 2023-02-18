@@ -66,7 +66,6 @@
   <commonModules>CommonModule.ОбщегоНазначения</commonModules>
   <commonModules>CommonModule.УправлениеНапоминаниями</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияВызовСервера</commonModules>
-  <commonModules>CommonModule.Глобальный</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСервер</commonModules>
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
@@ -132,6 +131,7 @@
   <reports>Report.ПоказанияСчетчиков</reports>
   <reports>Report.ДинамикаРасходовПоСтатье</reports>
   <reports>Report.ПрогнозируемыеОстаткиДенежныхСредств</reports>
+  <reports>Report.ОстаткиВалют</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ПоказанияСчётчиков</informationRegisters>
   <informationRegisters>InformationRegister.Тарифы</informationRegisters>

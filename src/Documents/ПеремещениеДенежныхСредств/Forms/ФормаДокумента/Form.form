@@ -698,7 +698,7 @@
                 <common>true</common>
               </userVisible>
               <dataPath xsi:type="form:DataPath">
-                <segments>Объект.ИнвертироватьКурс</segments>
+                <segments>Объект.КурсДействуетДляИсходнойВалюты</segments>
               </dataPath>
               <extendedTooltip>
                 <name>ИнвертироватьКурсРасширеннаяПодсказка</name>
@@ -2121,6 +2121,15 @@
       </cmiFragmentRecord>
       <cmiFragmentRecord>
         <command>AccumulationRegister.ОстаткиВалют.StandardCommand.OpenByRecorder</command>
+        <commandParameter xsi:type="form:DataPath">
+          <segments>Объект.Ref</segments>
+        </commandParameter>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+      </cmiFragmentRecord>
+      <cmiFragmentRecord>
+        <command>AccumulationRegister.ОстаткиПоСчетам.StandardCommand.OpenByRecorder</command>
         <commandParameter xsi:type="form:DataPath">
           <segments>Объект.Ref</segments>
         </commandParameter>

@@ -22,6 +22,10 @@
     <key>ru</key>
     <value>Расход средств</value>
   </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Расходы денежных средств</value>
+  </listPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <checkUnique>true</checkUnique>

@@ -21,6 +21,10 @@
     <key>ru</key>
     <value>Перемещение средств</value>
   </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Перемещения средств</value>
+  </listPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
   <checkUnique>true</checkUnique>
@@ -239,18 +243,14 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="800c086b-aa24-4182-9d98-cad38c018c58">
-    <name>ИнвертироватьКурс</name>
+    <name>КурсДействуетДляИсходнойВалюты</name>
     <synonym>
       <key>ru</key>
-      <value>Инвертировать курс</value>
+      <value>Курс действует для исходной валюты</value>
     </synonym>
     <type>
       <types>Boolean</types>
     </type>
-    <toolTip>
-      <key>ru</key>
-      <value>Если нужно, чтобы курс и кратность относились не к исходной валюте, а к валюте назначения, нужно выставить этот флажок</value>
-    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
